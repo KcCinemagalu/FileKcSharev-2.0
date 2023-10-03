@@ -74,7 +74,7 @@ class Config(object):
 
 🧑🏻‍💻 **DΞVΞLФPΞЯ:** [KcDlpr](https://t.me/Kc_Cinemagalu)
 
-👥 **šupp⊕r† gr⊕up:** [Kc-Suport](https://t.me/LazyDeveloperSupport)
+👥 **šuppor† group:** [Kc-Suport](https://t.me/KcSupportGroup)
 
 📢 **U͢p͢d͢a͢t͢e͢s͢ C͢h͢a͢n͢n͢e͢l͢:** [KcUpdates](https://t.me/Kc_Cinemagalu)
 """
