@@ -117,12 +117,12 @@ async def Lazy_start():
                 reply_markup=InlineKeyboardMarkup(
                     [
                         [
-                            InlineKeyboardButton("🍿suppor† group", url="https://t.me/KcSupportGroup"),
-                            InlineKeyboardButton("🔊ßo†s chαηηεl", url="https://t.me/Kc_Cinemagalu")
+                            InlineKeyboardButton("𝙰𝙳𝙼𝙸𝙽 𝚂𝚄𝙿𝙿𝙾𝚁𝚃", url="https://t.me/Kingkc18"),
+                            InlineKeyboardButton("𝚄𝙿𝙳𝙴𝚃𝙰 𝙲𝙷𝙰𝙽𝙽𝙴𝙻", url="https://t.me/Kc_Films_2024")
                         ],
                         [
-                            InlineKeyboardButton("🤖Aß⊕ut ß⊕†", callback_data="aboutbot"),
-                            InlineKeyboardButton("♥️Aß⊕ut Đ€V", callback_data="aboutdevs")
+                            InlineKeyboardButton("𝙰𝙱𝙾𝚄𝚃 𝙱𝙾𝚃", callback_data="aboutbot"),
+                            InlineKeyboardButton("𝙰𝙱𝙾𝚄𝚃 𝙳𝙴𝚅", callback_data="aboutdevs")
                         ],
                         [
                             InlineKeyboardButton("⎝⎝✧✧ ᴡᴀᴛᴄʜ ᴛᴜᴛᴏʀɪᴀʟ ✧✧⎠⎠", url="https://youtu.be/Rtjyz3lEZwE")
@@ -133,12 +133,12 @@ async def Lazy_start():
                 reply_markup=InlineKeyboardMarkup(
                     [
                         [
-                            InlineKeyboardButton("🍿suppor† group", url="https://t.me/KcSupportGroup"),
-                            InlineKeyboardButton("🔊ßo†s chαηηεl", url="https://t.me/Kc_Cinemagalu")
+                            InlineKeyboardButton("𝙰𝙳𝙼𝙸𝙽 𝚂𝚄𝙿𝙿𝙾𝚁𝚃", url="https://t.me/Kingkc18"),
+                            InlineKeyboardButton("𝚄𝙿𝙳𝙴𝚃𝙰 𝙲𝙷𝙰𝙽𝙽𝙴𝙻", url="https://t.me/Kc_Films_2024")
                         ],
                         [
-                            InlineKeyboardButton("🤖Aß⊕ut ß⊕†", callback_data="aboutbot"),
-                            InlineKeyboardButton("♥️Aß⊕ut Đ€V", callback_data="aboutdevs")
+                            InlineKeyboardButton("𝙰𝙱𝙾𝚄𝚃 𝙱𝙾𝚃", callback_data="aboutbot"),
+                            InlineKeyboardButton("𝙰𝙱𝙾𝚄𝚃 𝙳𝙴𝚅", callback_data="aboutdevs")
                         ],
                         [
                             InlineKeyboardButton("⎝⎝✧✧ ᴡᴀᴛᴄʜ ᴛᴜᴛᴏʀɪᴀʟ ✧✧⎠⎠", url="https://youtu.be/Rtjyz3lEZwE")
@@ -183,7 +183,7 @@ async def Lazy_start():
                     return
 
             if message.from_user.id in Config.BANNED_USERS:
-                await message.reply_text("ꜱᴏʀʀʏ, ʏᴏᴜ ᴀʀᴇ ʙᴀɴɴᴇᴅ!\n\nContact [Support Group](https://t.me/LazyDeveloperSupport)",
+                await message.reply_text("ꜱᴏʀʀʏ, ʏᴏᴜ ᴀʀᴇ ʙᴀɴɴᴇᴅ!\n\nContact [𝙰𝙳𝙼𝙸𝙽 𝚂𝚄𝙿𝙿𝙾𝚁𝚃](https://t.me/kingkc18)",
                                         disable_web_page_preview=True)
                 return
 
@@ -377,11 +377,11 @@ async def Lazy_start():
                     [
                         [
                             InlineKeyboardButton("⚡️SФUЯCΞ CФDΞS ФF ß⊕Γ",
-                                                url="https://github.com/LazyDeveloperr/MissRozy")
+                                                url="https://t.me/Kingkc18")
                         ],
                         [
-                            InlineKeyboardButton("GФ HФMΞ", callback_data="gotohome"),
-                            InlineKeyboardButton("♥️Aß⊕ut Đ€V", callback_data="aboutdevs")
+                            InlineKeyboardButton("𝙶𝙾 𝙷𝙾𝙼𝙴", callback_data="gotohome"),
+                            InlineKeyboardButton("𝙰𝙱𝙾𝚄𝚃 𝙳𝙴𝚅", callback_data="aboutdevs")
                         ]
                     ]
                 )
@@ -395,11 +395,11 @@ async def Lazy_start():
                     [
                         [
                             InlineKeyboardButton("⚡️SФUЯCΞ CФDΞS ФF ß⊕Γ",
-                                                url="https://github.com/LazyDeveloperr/MissRozy")
+                                                url="https://t.me/Kingkc18")
                         ],
                         [
-                            InlineKeyboardButton("🤖Aß⊕ut ß⊕t", callback_data="aboutbot"),
-                            InlineKeyboardButton("🥷GФ HФMΞ", callback_data="gotohome")
+                            InlineKeyboardButton("𝙰𝙱𝙾𝚄𝚃 𝙱𝙾𝚃", callback_data="aboutbot"),
+                            InlineKeyboardButton("𝙶𝙾 𝙷𝙾𝙼𝙴", callback_data="gotohome")
                         ]
                     ]
                 )
@@ -413,12 +413,12 @@ async def Lazy_start():
                 reply_markup=InlineKeyboardMarkup(
                     [
                         [
-                            InlineKeyboardButton("🍿suppor† group", url="https://t.me/KcSupportGroup"),
-                            InlineKeyboardButton("🔊ßots Channel", url="https://t.me/Kc_Cinemagalu")
+                            InlineKeyboardButton("𝙰𝙳𝙼𝙸𝙽 𝚂𝚄𝙿𝙿𝙾𝚁𝚃", url="https://t.me/Kingkc18"),
+                            InlineKeyboardButton("𝚄𝙿𝙳𝙴𝚃𝙰 𝙲𝙷𝙰𝙽𝙽𝙴𝙻", url="https://t.me/Kc_Films_2024")
                         ],
                         [
-                            InlineKeyboardButton("🤖Aß⊕ut ß⊕t", callback_data="aboutbot"),
-                            InlineKeyboardButton("♥️Aß⊕ut Đ€V", callback_data="aboutdevs")
+                            InlineKeyboardButton("𝙰𝙱𝙾𝚄𝚃 𝙱𝙾𝚃", callback_data="aboutbot"),
+                            InlineKeyboardButton("𝙰𝙱𝙾𝚄𝚃 𝙳𝙴𝚅", callback_data="aboutdevs")
                         ],
                         [
                             InlineKeyboardButton("⎝⎝✧✧ ᴡᴀᴛᴄʜ ᴛᴜᴛᴏʀɪᴀʟ ✧✧⎠⎠", url="https://youtu.be/Rtjyz3lEZwE")
@@ -433,12 +433,12 @@ async def Lazy_start():
                 reply_markup=InlineKeyboardMarkup(
                     [
                         [
-                            InlineKeyboardButton("🍿supp⊕r† gr⊕up", url="https://t.me/KcSupportGroup"),
-                            InlineKeyboardButton("🔊ß⊕ts Channel", url="https://t.me/Kc_Cinemagalu")
+                            InlineKeyboardButton("𝙰𝙳𝙼𝙸𝙽 𝚂𝚄𝙿𝙿𝙾𝚁𝚃", url="https://t.me/Kingkc18"),
+                            InlineKeyboardButton("𝚄𝙿𝙳𝙴𝚃𝙰 𝙲𝙷𝙰𝙽𝙽𝙴𝙻", url="https://t.me/Kc_Films_2024")
                         ],
                         [
-                            InlineKeyboardButton("🤖Aß⊕ut ß⊕t", callback_data="aboutbot"),
-                            InlineKeyboardButton("♥️Aß⊕ut Đ€V", callback_data="aboutdevs")
+                            InlineKeyboardButton("𝙰𝙱𝙾𝚄𝚃 𝙱𝙾𝚃", callback_data="aboutbot"),
+                            InlineKeyboardButton("𝙰𝙱𝙾𝚄𝚃 𝙳𝙴𝚅", callback_data="aboutdevs")
                         ],
                         [
                             InlineKeyboardButton("⎝⎝✧✧ ᴡᴀᴛᴄʜ ᴛᴜᴛᴏʀɪᴀʟ ✧✧⎠⎠", url="https://youtu.be/Rtjyz3lEZwE")
@@ -480,7 +480,7 @@ async def Lazy_start():
                     return
                 except Exception:
                     await cmd.message.edit(
-                        text="ꜱᴏᴍᴇᴛʜɪɴɢ ᴡᴇɴᴛ ᴡʀᴏɴɢ. ᴄᴏɴᴛᴀᴄᴛ ᴍʏ [Support Group](https://t.me/KcSupportGroup).",
+                        text="ꜱᴏᴍᴇᴛʜɪɴɢ ᴡᴇɴᴛ ᴡʀᴏɴɢ. ᴄᴏɴᴛᴀᴄᴛ ᴍʏ [𝙰𝙳𝙼𝙸𝙽 𝚂𝚄𝙿𝙿𝙾𝚁𝚃](https://t.me/Kingkc18).",
                         disable_web_page_preview=True
                     )
                     return
@@ -491,12 +491,12 @@ async def Lazy_start():
                 reply_markup=InlineKeyboardMarkup(
                     [
                         [
-                            InlineKeyboardButton("🍿suppor† group", url="https://t.me/KcSupportGroup"),
-                            InlineKeyboardButton("🔊ßots Channel", url="https://t.me/Kc_Cinemagalu")
+                            InlineKeyboardButton("𝙰𝙳𝙼𝙸𝙽 𝚂𝚄𝙿𝙿𝙾𝚁𝚃", url="https://t.me/Kingkc18"),
+                            InlineKeyboardButton("𝚄𝙿𝙳𝙴𝚃𝙰 𝙲𝙷𝙰𝙽𝙽𝙴𝙻", url="https://t.me/Kc_Films_2024")
                         ],
                         [
-                            InlineKeyboardButton("🤖Aß⊕ut ß⊕t", callback_data="aboutbot"),
-                            InlineKeyboardButton("♥️Aß⊕ut Đ€V", callback_data="aboutdevs")
+                            InlineKeyboardButton("𝙰𝙱𝙾𝚄𝚃 𝙱𝙾𝚃", callback_data="aboutbot"),
+                            InlineKeyboardButton("𝙰𝙱𝙾𝚄𝚃 𝙳𝙴𝚅", callback_data="aboutdevs")
                         ],
                         [
                             InlineKeyboardButton("⎝⎝✧✧ ᴡᴀᴛᴄʜ ᴛᴜᴛᴏʀɪᴀʟ ✧✧⎠⎠", url="https://youtu.be/Rtjyz3lEZwE")
